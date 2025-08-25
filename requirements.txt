@@ -1,0 +1,9 @@
+librosa
+numpy
+scikit-learn
+soundfile
+mido
+pretty_midi
+transformers
+torch # (install the right build for your system/GPU later)
+pydub
