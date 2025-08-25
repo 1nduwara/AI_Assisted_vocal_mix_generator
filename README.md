@@ -7,11 +7,20 @@ This project aims to develop and evaluate a cutting-edge tool called the “AI A
 
 🔍 What this tool can do:
 
-🕵️‍♂️ Analyze instrumental audio tracks Detect BPM, key, and genre from your instrumental.
-✍️ Generate original song lyrics with AI Based on the track and your preferences (e.g. emotion, theme).
-🎼 Create a vocal melody (MIDI guide) Harmonizes perfectly with both lyrics and instrumental.
-🗣️ Synthesize a singing voice Choose characteristics like male/female tone to match your vibe.
-🎚️ Auto-mix the vocals with your instrumental Produces a cohesive initial draft of a full song.
+🕵️‍♂️ Analyze instrumental audio tracks 
+Detect BPM, key, and genre from your instrumental.
+
+✍️ Generate original song lyrics with AI 
+Based on the track and your preferences (e.g. emotion, theme).
+
+🎼 Create a vocal melody (MIDI guide) 
+Harmonizes perfectly with both lyrics and instrumental.
+
+🗣️ Synthesize a singing voice 
+Choose characteristics like male/female tone to match your vibe.
+
+🎚️ Auto-mix the vocals with your instrumental 
+Produces a cohesive initial draft of a full song.
 
 💡 Why it’s awesome:
 This tool helps you overcome creative blocks 🚫🧱 and quickly sketch out lyrical and vocal ideas ✨—no need to spend hours on brainstorming when inspiration’s running low!
