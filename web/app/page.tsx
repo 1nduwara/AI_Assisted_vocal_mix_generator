@@ -22,14 +22,24 @@ export default function HomePage() {
       <main className="flex-grow">
 
         {/* SECTION - 1 */}
-        <section className="section_1 text-center py-20 px-4">
-          <h1 className="text-5xl font-bold mb-4">AI Assisted Vocals Mix Generator For Music Producers</h1>
-          <p className="text-xl text-gray-400 mb-8">
-            Create professional-quality vocal mixes in seconds with AI-Assistance with ease.
-          </p>
-          <a href="/generate" className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-            Get Started
-          </a>
+        <section className="section_1">
+
+          {/*     video    */}
+          <video autoPlay loop muted playsInline className="background-video">
+            <source src="./Data/Video/video_4k.mp4" type="video/mp4" />
+          </video>
+
+          {/*     content    */}
+          <div className="content-overlay">
+            <h1 className="text-5xl font-bold mb-4">AI Assisted Vocals Mix Generator For Music Producers</h1>
+            <p className="text-xl text-gray-400 mb-8">
+              Create professional-quality vocal mixes in seconds with AI-Assistance with ease.
+            </p>
+            <a href="/generate" className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+              Get Started
+            </a>
+          </div>
+
         </section>
 
         <section className="py-20 px-4 bg-gray-800">
